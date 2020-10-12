@@ -1,0 +1,26 @@
+- `a`: Mocking framework and test framework in compact when-style. With recursive test runner
+- `b`: Benchmarks for Node.js.
+- `c`: Set and remove comments from files and directories, and view them from the command line.
+- `d`: Property descriptor factory
+- `e`: A modern universal utility library.
+- `f`: Functional Microservice Request Library
+- `g`: Globalize module functions
+- `h`: generate HTML from javascript array structures
+- `i`: custom inflections for nodejs
+- `j`: CLI tool for working with spreadsheet files
+- `k`: new web framework
+- `l`: Mix Async/Sync code with Promises and Streams in a reusable unified line
+- `m`: mongodb version management
+- `n`: Interactively Manage All Your Node Versions
+- `o`: common object helper functions
+- `p`: pattern matching in javascript for asyncronous iteration
+- `q`: A library for promises (CommonJS/Promises/A,B,D)
+- `r`: require relative to your root project
+- `s`: SheetJS Spreadsheet Helper Library
+- `t`: tree traversal and manipulation
+- `u`: A minimalist, functional utility library designed for embedding into another small program.
+- `v`: Secure, Synchronized, Realtime, Cloud, Native JavaScript Variables & Events
+- `w`: WordBox cli to quickly spin up PHP dev environments.
+- `x`: Apply HTML transformations using attributes
+- `y`: Simple object inspection tool
+- `z`: native pattern matching for javascript

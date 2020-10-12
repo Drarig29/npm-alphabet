@@ -1,26 +1,26 @@
-- `a`: Mocking framework and test framework in compact when-style. With recursive test runner
-- `b`: Benchmarks for Node.js.
-- `c`: Set and remove comments from files and directories, and view them from the command line.
-- `d`: Property descriptor factory
-- `e`: A modern universal utility library.
-- `f`: Functional Microservice Request Library
-- `g`: Globalize module functions
-- `h`: generate HTML from javascript array structures
-- `i`: custom inflections for nodejs
-- `j`: CLI tool for working with spreadsheet files
-- `k`: new web framework
-- `l`: Mix Async/Sync code with Promises and Streams in a reusable unified line
-- `m`: mongodb version management
-- `n`: Interactively Manage All Your Node Versions
-- `o`: common object helper functions
-- `p`: pattern matching in javascript for asyncronous iteration
-- `q`: A library for promises (CommonJS/Promises/A,B,D)
-- `r`: require relative to your root project
-- `s`: SheetJS Spreadsheet Helper Library
-- `t`: tree traversal and manipulation
-- `u`: A minimalist, functional utility library designed for embedding into another small program.
-- `v`: Secure, Synchronized, Realtime, Cloud, Native JavaScript Variables & Events
-- `w`: WordBox cli to quickly spin up PHP dev environments.
-- `x`: Apply HTML transformations using attributes
-- `y`: Simple object inspection tool
-- `z`: native pattern matching for javascript
+- [a](https://www.npmjs.com/package/a) : Mocking framework and test framework in compact when-style. With recursive test runner
+- [b](https://www.npmjs.com/package/b) : Benchmarks for Node.js.
+- [c](https://www.npmjs.com/package/c) : Set and remove comments from files and directories, and view them from the command line.
+- [d](https://www.npmjs.com/package/d) : Property descriptor factory
+- [e](https://www.npmjs.com/package/e) : A modern universal utility library.
+- [f](https://www.npmjs.com/package/f) : Functional Microservice Request Library
+- [g](https://www.npmjs.com/package/g) : Globalize module functions
+- [h](https://www.npmjs.com/package/h) : generate HTML from javascript array structures
+- [i](https://www.npmjs.com/package/i) : custom inflections for nodejs
+- [j](https://www.npmjs.com/package/j) : CLI tool for working with spreadsheet files
+- [k](https://www.npmjs.com/package/k) : new web framework
+- [l](https://www.npmjs.com/package/l) : Mix Async/Sync code with Promises and Streams in a reusable unified line
+- [m](https://www.npmjs.com/package/m) : mongodb version management
+- [n](https://www.npmjs.com/package/n) : Interactively Manage All Your Node Versions
+- [o](https://www.npmjs.com/package/o) : common object helper functions
+- [p](https://www.npmjs.com/package/p) : pattern matching in javascript for asyncronous iteration
+- [q](https://www.npmjs.com/package/q) : A library for promises (CommonJS/Promises/A,B,D)
+- [r](https://www.npmjs.com/package/r) : require relative to your root project
+- [s](https://www.npmjs.com/package/s) : SheetJS Spreadsheet Helper Library
+- [t](https://www.npmjs.com/package/t) : tree traversal and manipulation
+- [u](https://www.npmjs.com/package/u) : A minimalist, functional utility library designed for embedding into another small program.
+- [v](https://www.npmjs.com/package/v) : Secure, Synchronized, Realtime, Cloud, Native JavaScript Variables & Events
+- [w](https://www.npmjs.com/package/w) : WordBox cli to quickly spin up PHP dev environments.
+- [x](https://www.npmjs.com/package/x) : Apply HTML transformations using attributes
+- [y](https://www.npmjs.com/package/y) : Simple object inspection tool
+- [z](https://www.npmjs.com/package/z) : native pattern matching for javascript

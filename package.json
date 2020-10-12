@@ -1,0 +1,28 @@
+{
+  "name": "npm-alphabet",
+  "version": "1.0.0",
+  "description": "Get the packages which have each letter of the alphabet as a name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drarig29/npm-alphabet.git"
+  },
+  "keywords": [
+    "npm",
+    "alphabet",
+    "packages",
+    "api"
+  ],
+  "author": "Corentin Girard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drarig29/npm-alphabet/issues"
+  },
+  "homepage": "https://github.com/Drarig29/npm-alphabet#readme",
+  "dependencies": {
+    "npm-api": "^1.0.0"
+  }
+}
